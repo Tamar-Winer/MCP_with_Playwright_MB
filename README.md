@@ -380,7 +380,7 @@ You: Is it going to be hot in Miami this weekend?
 
 <div align="center">
 
-**פרויקט 4 | קורס Dovrot AI | 2025**
+**פרויקט 4 | קורס Dovrot AI | 2026**
 
 ![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-red?style=flat-square)
 ![Israel](https://img.shields.io/badge/🇮🇱-Israel-blue?style=flat-square)
